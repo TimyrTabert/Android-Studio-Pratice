@@ -1,0 +1,10 @@
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\bin\Debug\lesson 9.exe.config
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\bin\Debug\lesson 9.exe
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\bin\Debug\lesson 9.pdb
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson 9.csproj.AssemblyReference.cache
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson_9.Form1.resources
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson_9.Properties.Resources.resources
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson 9.csproj.GenerateResource.cache
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson 9.csproj.CoreCompileInputs.cache
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson 9.exe
+Z:\Students2021\Воскресенье\Expert 1 16-00 Слава\Тимур\lesson 9\obj\Debug\lesson 9.pdb
