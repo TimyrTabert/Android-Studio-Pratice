@@ -1,6 +1,7 @@
 # Android-Studio-Pratice
 Eto moi perviu repositoryi
 ![Screenshot](Безымянный.png)
+```
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+```
 namespace lesson_9
 {
     public partial class Form1 : Form
